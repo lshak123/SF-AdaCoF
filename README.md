@@ -199,7 +199,6 @@ MakeTripletset.py --video_url [LINK] --name [Youtube Video Title] --start [Extra
 
 
 
-
 <h2> Paper References</h2>
 <ul>
   <li><p>	CVPR 2020 Computer Vision and Pattern Recognition (cs.CV)	arXiv:1907.10244 [cs.CV], 'AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation' [Online].</p>
